@@ -49,7 +49,7 @@ const App = () => {
             <div className="letter">
               {showMessage ? (
                 <p className="message">
-                  {name}, You are the Moon in my dark sky! ❤️
+                  {name}, You are the Moon to my dark sky! ❤️
                 </p>
               ) : (
                 <p className="message-placeholder">Open me!</p>
